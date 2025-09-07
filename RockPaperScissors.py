@@ -48,4 +48,5 @@ while x == "" :
     x = "" if y == "y" else 0
 
 print("\n")
+print("Thanks for playing our game!")
 input("press enter to exit the game : ")
